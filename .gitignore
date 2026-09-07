@@ -1,0 +1,21 @@
+# IDEs and environments
+.vscode/
+.idea/
+.DS_Store
+.github/
+.antigravitycli
+.mimocode/
+.agents/
+
+# Compiled files and temporary files
+build/
+notes/
+AGENTS.md
+CLAUDE.md
+
+# Heavy binary files
+*.jar
+*.exe
+
+# Temporary diagram exports
+report/assets/diagram-sources/c4-exported/
